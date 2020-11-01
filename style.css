@@ -1,5 +1,8 @@
 body{
     background: #ccc;
+    font-family: verdana;
+    max-width: 900px;
+    margin: auto;
 }
 
 .img_topo{
@@ -39,10 +42,12 @@ a{
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .img_post{
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .lista_contato{
